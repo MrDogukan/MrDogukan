@@ -3,7 +3,7 @@
 - :eyes: I’m interested in Web Development
 - :seedling: I’ve been learning HTML, CSS, Bootstrap, JavaScript, SQL, React JS
 - :speech_balloon: Ask me anything about Tech World.
-- :mailbox: You can reach me in here[LinkedIn](https://www.linkedin.com/in/aliseslikaya/)
+- :mailbox: You can reach me in here[LinkedIn](https://www.linkedin.com/in/aliseslikaya/) and check my [Portfolio Page](https://my-portfolio-page-mocha.vercel.app/)
 ## Languages & Tools  :hammer_and_wrench:
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/></a>
